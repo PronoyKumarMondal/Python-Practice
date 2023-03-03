@@ -1,0 +1,1 @@
+("New total after discount: "+str(t))
